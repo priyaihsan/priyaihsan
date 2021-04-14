@@ -7,3 +7,4 @@ Hallo , perkenalkan nama saya priya ihsan amirullah.sekarang saya masih <a href=
 ## temukan aku di sosial media: 
 - suka foto-foto atau tentang ku bisa di check di <a href="https://www.instagram.com/priyaihsan_/"> Instagram</a> 🧳😎
 - membuat vidio tetang percodingan dan hal-hal lucu atau hal-hal lainnya bisa di check di <a href="https://www.youtube.com/channel/UCE18XgJ0LqS3px9TaA-7qbA"> Youtube</a> 💼
+
