@@ -1,6 +1,6 @@
 # Hi, I'm priya ihsan 😅💻
 
-<img src="https://github.com/priyaihsan/profile/blob/main/img/backgroud.png">
+<img src="https://github.com/priyaihsan/profile/blob/main/img/backgroud1.png">
 Hallo , perkenalkan nama saya priya ihsan amirullah.sekarang saya masih <a href="https://www.umy.ac.id/">kuliah</a>🎓 dan umur saya 19 tahun , saya harap kita bisa sama-sama membantu satu sama lain dalam hal belajar dan lainnya. semangat 💪🏻
 
 
